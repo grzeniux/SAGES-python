@@ -1,0 +1,65 @@
+## Secrets
+_secrets
+.secrets
+preprod.env
+production.env
+prod.env
+
+## Temporary
+_backup
+_tmp
+.backup
+.tmp
+
+## Python Virtualenv
+venv/
+venv-*/
+_venv
+_venv-py
+.venv/
+.venv-*/
+
+## IDE
+.idea
+.fleet
+.vscode
+
+## Django
+_static
+_media
+.static
+.media
+*.sqlite3
+*.db
+
+## Sphinx, Mkdocs
+_build
+.build
+_cache/
+.cache/
+
+## Python Cache
+.pytest_cache/
+.mypy_cache/
+**/.ipynb_checkpoints/
+
+## Python Compiled
+__pycache__/
+*.pyc
+build/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+sdist/
+*.egg-info/
+*.egg
+
+## OS
+~$*
+.DS_Store
+
+## JavaScript
+**/node_modules/
+**/.expo

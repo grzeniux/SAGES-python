@@ -1,0 +1,29 @@
+[project]
+name = "szkolenie"
+description = "Python Training Course"
+version = "1.0.0"
+requires-python = ">=3.12"
+authors = [{name = "Matt Harasymczuk", email = "matt@python3.info"}]
+readme = "README.md"
+license = {file = "LICENSE"}
+
+keywords = [
+    "python",
+    "data science",
+    "machine learning",
+    "artificial intelligence",
+]
+
+classifiers = [
+    "Intended Audience :: Other Audience",
+    "License :: Free for non-commercial use",
+    "Natural Language :: English",
+    "Natural Language :: Polish",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.12",
+]
+
+[urls]
+homepage = "https://python3.info"
+repository = "https://github.com/sages-pl"

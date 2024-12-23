@@ -1,0 +1,55 @@
+Licencja
+========
+
+Copyright: 2024, all rights reserved to Mateusz Matt Harasymczuk, email: matt@python3.info
+
+
+Definicje
+---------
+1. Termin "Autor" dotyczy osoby: Mateusz Matt Harasymczuk, email: matt@python3.info.
+2. Termin "Uczestnik" dotyczy osoby biorącej udział w szkoleniu.
+3. Termin "Szkolenie" dotyczy wszelkich aktywności edukacyjnych tj. wykład, warsztat, kurs elearning, webinar itp.
+
+4. Termin "Repozytorium" dotyczy zbiorczego określenia na:
+- treści zamieszczone na stronie https://www.python3.info,
+- treści zamieszczone w tym repozytorium,
+- treści z tego repozytorium, które zostały skopiowane w inne miejsce.
+
+5. Termin "Zadanie" dotyczy pliku oraz innych treści w Repozytorium
+
+6. Termin "Materiały" dotyczy zbiorczego określenia na wszelkie Zadania zamieszczone w Repozytorium, w szczególności:
+- opisy przykładów,
+- pliki konfiguracyjne,
+- kod źródłowy przykładów,
+- treść polecenia, testy, dane wejściowe oraz kod źródłowy Zadań,
+- treść odpowiedzi, testy, dane wyjściowe oraz kod źródłowy odpowiedzi i rozwiązań Zadań,
+- dane wejściowe Zadań,
+- przykładów kodu w Zadaniach,
+- notatek oraz brudnopisów,
+- jakichkolwiek treści zamieszczonych w historii Repozytorium w szczególności obiekty w Git.
+
+
+Własność
+--------
+1. Materiały w Repozytorium stanowią integralną część zbioru Materiałów dostępnego pod adresem https://www.python3.info
+2. Własność intelektualna Materiałów oraz z nią związane prawa autorskie i majątkowe należą do Autora.
+3. Własność intelektualna Materiałów stworzonych przez uczestnika Szkolenia należy do uczestnika, który je stworzył.
+4. Zabrania się udostępniania Materiałów oraz Repozytorium osobom trzecim, za wyjątkiem sytuacji zatwierdzonych pisemną zgodą Autora. 
+5. Zabrania się wykorzystywania Materiałów oraz Repozytorium we wszelkich systemach uczenia maszynowego w szczególności do uczenia:
+- sztucznej inteligencji,
+- wielkich modeli językowych (LLM),
+- systemów wspomagania programowania (tj. Copilot, czy Jetbrains AI Assistant itp.),
+- systemów przetwarzania obrazów.
+
+
+Wykorzystanie
+-------------
+1. Autor nieodpłatnie udostępnia Materiały oraz Repozytorium Uczestnikowi na czas Szkolenia.
+2. Kategorycznie zabrania się wykorzystywać Materiały do prowadzenia Szkoleń przez osoby inne niż Autor.
+3. Wyjątek stanowią autoryzowane Szkolenia za pisemną zgodą Autora.
+4. Za prowadzenie Szkoleń przy wykorzystaniu Materiałów jest naliczana opłata licencyjna.
+
+
+Zgody
+-----
+1. Uczestnik Szkolenia korzystający z Materiałów lub Repozytorium dobrowolnie zgadza się na postanowienia tej licencji.
